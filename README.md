@@ -1,2 +1,2 @@
 # foodweb
-![](foodweb.gif)
+![](gif.REC)
